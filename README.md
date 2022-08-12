@@ -1,8 +1,14 @@
 ![MasterHead](https://www.inspiredbusinessmedia.com/wp-content/uploads/2020/09/Twilio.jpg)
 
 <h1 align="center">Hi 👋, I'm ANES J</h1>
-# 💫 About Me:
-🔭 I’m currently studying in Puducherry Technological University<br>👨‍💻 All of my projects are available at https://awezome-anes.me/<br>📫 How to reach me anesj2001@gmail.com<br>⚡ Fun fact I am Super Lazy
+<h3 align="center">A Computer Science and Engineer Enthusiast</h3>
+
+💫 <b>About Me:</b> <br>
+🔭 I’m currently studying in Puducherry Technological University<br>
+👨‍💻 Check out my Portfolio at https://awezome-anes.me/<br> 
+🌱 I’m currently learning **Django**<br>
+📫 How to reach me anesj.dev@gmail.com<br>
+⚡ Fun fact I am Super Lazy
 
 
 ## 🌐 Socials:
