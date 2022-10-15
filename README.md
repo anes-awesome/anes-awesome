@@ -5,7 +5,7 @@
 
 💫 <b>About Me:</b> <br>
 🔭 I’m currently studying in Puducherry Technological University<br>
-👨‍💻 Check out my Portfolio website https://anes-awesome.github.io/Anes-Porfolio/<br> 
+👨‍💻 Check out my Portfolio website https://awzm-anes.me//<br> 
 🌱 I’m currently learning **Django**<br>
 📫 How to reach me anesj.dev@gmail.com<br>
 ⚡ Fun fact I am Super Lazy
